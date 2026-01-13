@@ -1,0 +1,81 @@
+CVA: !!com.ispw.wzzms.datagroups.CVA
+  cicsind: ' '
+  genseq: ' '
+  imsind: ' '
+  opt1ind: ' '
+  opt2ind: ' '
+  opt3ind: ' '
+  opt4ind: ' '
+  progtype: Y
+  sqlind: N
+WZGPARMS: !!com.ispw.wzzms.datagroups.extended.XDExt
+  baseclas: CMPNVERS
+  baseid: 0
+  extnclas: WZGPARMS
+  extndata: !!binary |-
+    HQAcBlBGSE1LUzAAEgAcAEEAAAABABwCQzYyAA==
+  extndataMap:
+    WZGPKGI: ''
+    WZGPKGO: ''
+    WZGPKGQ: ''
+    WZGPKGR: ''
+    WZGPKGV: ''
+    WZGPKGX: ''
+    WZGPLNB: ''
+    USERID: PFHMKS0
+    WZGDUAL: ''
+    WTIWSPD: ''
+    ACTICLVL: ''
+    ACTITYPE: ''
+    CRITERIA: ''
+    WTIWSTM: ''
+    NEWFLAG: ''
+    WZZCOPY: ''
+    ACTIPLAN: ''
+    WTIWSDP: ''
+    CPARM1: A
+    CPARM2: ''
+    ACTIDBRM: ''
+    LASTUPDT: '2026-01-13'
+    WZZLINK: ''
+    WZGDB2: ''
+    WZGPKGC: ''
+    CPARM5: ''
+    WZGMQPJ: ''
+    WZGPKGF: ''
+    CPARM3: ''
+    ACTIPKG: ''
+    CPARM4: ''
+    WZGPKGDE: ''
+    LPARM2: ''
+    ACTINAME: ''
+    LPARM3: ''
+    LPARM1: ''
+    ACTIPLN: ''
+    WZGPSB: ''
+    ACTIRLSE: ''
+    ACTIECHO: ''
+    WZGBIND: ''
+    ACTIDPLY: ''
+    ACTIIMPL: ''
+    ACTIILVL: ''
+    WZGPKGCD: ''
+    WZGMQS: ''
+    WZGPKG: ''
+    ACTIAPPL: ''
+    DUMMY: ''
+    WZGBMETH: ''
+    LASTOPDT: ''
+    CCJOBNAM: ''
+    COMPILER: C62
+    WUCVERS: ''
+    CCSTEPNM: ''
+    SPARM1: ''
+    SPARM2: ''
+    SPARM3: ''
+  extndata_l: 28
+CVE1: !!com.ispw.wzzms.datagroups.CVE1
+  loadname: TPROG12
+stream: FTSDEMO
+application: MKS2
+subAppl: MKS2
